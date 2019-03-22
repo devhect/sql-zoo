@@ -32,13 +32,3 @@ Exercise solutions for: https://sqlzoo.net/wiki/SQL_Tutorial
 
 9 Self join
     In which we join Edinburgh bus routes to Edinburgh bus routes.
-
-10 Tutorial Quizzes
-    Test your knowledge with multiple choice quizzes
-
-11 Tutorial Student Records
-    Creating a database
-
-12 Tutorial DDL
-    Instructions on how to import data and analyse it in mysql
-
