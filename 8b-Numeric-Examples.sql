@@ -1,5 +1,3 @@
-/****************************************
-****************************************/
 -- 1. Show the the percentage who STRONGLY AGREE with question 1 at 'Edinburgh Napier University' studying '(8) Computer Science'.
 SELECT A_STRONGLY_AGREE
 FROM nss
